@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Bariwu Alhassan Nyankpani.
-A passionate Front and Backend development student from Ghana.
+A passionate Front and Backend web development learner from Ghana.
 🌱 I’m currently learning: Python, JavaScript, HTML, CSS, React, MySQL.
 📫 Reach me - bariwunyankpani@gmail.com
 
