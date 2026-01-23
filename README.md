@@ -1,6 +1,6 @@
 ## Hi there , I am Bariwu Alhassan Nyankpani.
-A passionate Front and Backend web development learner from Ghana.
-I’m currently learning: Python, JavaScript, HTML, CSS, React, MySQL.
+A passionate Full Stack Web developer from Ghana.
+Python | JavaScript | HTML | CSS | React | MySQL
 Reach me - bariwunyankpani@gmail.com
 
 <!--
