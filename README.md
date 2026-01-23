@@ -18,7 +18,7 @@ clean, scalable code.
 
 ### 📫 How to reach me:
 - **LinkedIn:** [linkedin.com/in/bariwu-nyankpani](https://linkedin.com/in/bariwu-alhassan-nyankpani-0935812a3)
-- **Email:** [yourname@email.com](mailto:bariwunyankpani@email.com)
+- **Email:** [bariwunyankpani@email.com](mailto:bariwunyankpani@email.com)
 
 
 Here are some ideas to get you started:
