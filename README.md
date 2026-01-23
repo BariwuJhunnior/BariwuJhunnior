@@ -7,7 +7,7 @@ clean, scalable code.
 - **Frontend:** React, Tailwind CSS, Framer Motion, JavaScript (ES6+)
 - **Backend:** Django, Django REST Framework, Python
 - **Database:** MySQL, SQLite
-- **Tools:** Git, Axios, Lucide Icons, figma
+- **Tools:** Git, Axios, Lucide Icons, Figma
 
 ### 🔭 Current Projects
 - **[BookWorm Buddy](https://bookwormbuddyv2.vercel.app/):** A front-end book library Application.
