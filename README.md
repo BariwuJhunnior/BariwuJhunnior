@@ -11,6 +11,7 @@ clean, scalable code.
 
 ### Current Projects
 - **[BookWorm Buddy](https://bookwormbuddyv2.vercel.app/):** A front-end book library Application.
+- **[Blogging Platform API](https://bariwualhassan.pythonanywhere.com/api):** A robust and feature-rich REST API built with Django and Django REST Framework for managing blog posts, categories, tags, users, and social interactions.
 
 
 ### GitHub Stats
