@@ -5,7 +5,7 @@ clean, scalable code.
 
 ### Tech Stack
 - **Frontend:** React, Tailwind CSS, Framer Motion, JavaScript (ES6+)
-- **Backend:** Django, Django REST Framework, Python
+- **Backend:** Django, Python
 - **Database:** MySQL, SQLite
 - **Tools:** Git, Axios, Lucide Icons, Figma
 
