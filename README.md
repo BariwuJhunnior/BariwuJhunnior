@@ -5,7 +5,7 @@ clean, scalable code.
 
 ### Tech Stack
 - **Frontend:** React, Tailwind CSS, JavaScript (ES6+)
-- **Backend:** Django, Python, Node
+- **Backend:** Django, Fast API, Node, Express Js
 - **Database:** MySQL, SQLite, MongoDB
 - **Tools:** Git, Figma
 
