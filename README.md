@@ -4,10 +4,10 @@ dynamic, user-centric frontends. I enjoy turning complex problems into
 clean, scalable code.
 
 ### Tech Stack
-- **Frontend:** React, Tailwind CSS, Framer Motion, JavaScript (ES6+)
-- **Backend:** Django, Python
-- **Database:** MySQL, SQLite
-- **Tools:** Git, Axios, Lucide Icons, Figma
+- **Frontend:** React, Tailwind CSS, JavaScript (ES6+)
+- **Backend:** Django, Python, Node
+- **Database:** MySQL, SQLite, MongoDB
+- **Tools:** Git, Figma
 
 ### Current Projects
 - **[BookWorm Buddy](https://bookwormbuddyv2.vercel.app/):** A front-end book library Application.
