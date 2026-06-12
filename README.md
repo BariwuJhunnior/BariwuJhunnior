@@ -3,11 +3,8 @@ I'm a **Full Stack Developer** passionate about building robust backends and
 dynamic, user-centric frontends. I enjoy turning complex problems into 
 clean, scalable code.
 
-### Tech Stack
-- **Frontend:** React, Tailwind CSS, JavaScript (ES6+)
-- **Backend:** Django, Fast API, Node, Express Js
-- **Database:** MySQL, SQLite, MongoDB
-- **Tools:** Git, Figma
+### Languages and Tools
+React, Tailwind CSS, JavaScript (ES6+), Django, Fast API, Node, Express Js, MySQL, SQLite, MongoDB, Git, Figma, Linux, 
 
 ### Current Projects
 - **[BookWorm Buddy](https://bookwormbuddyv2.vercel.app/):** A front-end book library Application.
