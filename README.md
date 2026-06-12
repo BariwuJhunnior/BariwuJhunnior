@@ -1,5 +1,5 @@
-<center>## Hi, I am Bariwu Alhassan Nyankpani.</center>
-<center>**A passionate Full Stack Developer**</center>  
+<div align="center">## Hi, I am Bariwu Alhassan Nyankpani.</div>
+<div>**A passionate Full Stack Developer**</div>
 
 ### Languages and Tools
 
