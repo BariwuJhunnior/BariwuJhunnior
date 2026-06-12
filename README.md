@@ -2,7 +2,7 @@
 **A passionate Full Stack Developer**  
 
 ### Languages and Tools
-React, Tailwind CSS, JavaScript (ES6+), Django, Fast API, Node, Express Js, MySQL, SQLite, MongoDB, Git, Figma, Linux, Postman
+Python, React, JavaScript (ES6+), Django, Tailwind CSS, Fast API, Node, Express Js, MySQL, SQLite, MongoDB, Git, Figma, Linux, Postman
 
 ### Current Projects
 - **[BookWorm Buddy](https://bookwormbuddyv2.vercel.app/):** A front-end book library Application.
