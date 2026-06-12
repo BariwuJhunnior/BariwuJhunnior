@@ -1,4 +1,4 @@
-<div align="center">## Hi, I am Bariwu Alhassan Nyankpani.</div>
+##<div align="center"> Hi, I am Bariwu Alhassan Nyankpani.</div>
 <div>**A passionate Full Stack Developer**</div>
 
 ### Languages and Tools
