@@ -20,8 +20,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Current Projects
-- **[BookWorm Buddy](https://bookwormbuddyv2.vercel.app/):** A front-end book library Application.
-- **[Blogging Platform API](https://bariwualhassan.pythonanywhere.com/api):** A robust and feature-rich REST API built with Django and Django REST Framework for managing blog posts, categories, tags, users, and social interactions.
+- **[Project Management Tool](https://github.com/BariwuJhunnior/Project-Management-Tool):** A full stack Project Management Application.
+- **[Quick Intelligence Erp](https://quickintelligenceerp.com):** A robust and feature-rich front-end for Enterprise Resource Management Platform
 
 
 ### How to reach me:
