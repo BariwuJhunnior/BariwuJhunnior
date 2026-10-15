@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Current Projects
-- **[Project Management Tool](https://github.com/BariwuJhunnior/Project-Management-Tool):** A full stack Project Management Application. Contributions accepted.
+- **[Project Management Tool](https://github.com/BariwuJhunnior/Project-Management-Tool):** A full stack Project Management Application. Contributions are welcomed.
 
 
 
